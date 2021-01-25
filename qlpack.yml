@@ -1,3 +1,4 @@
-name: codeql-javascript
+name: my-custom-queries
 version: 0.0.0
+libraryPathDependencies: codeql-javascript
 extractor: javascript
