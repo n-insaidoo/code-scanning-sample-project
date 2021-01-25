@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "big-integer": "1.6.48",
+    "fast-csv": "^4.3.5"
+  }
+}
